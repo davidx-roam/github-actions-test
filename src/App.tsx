@@ -20,7 +20,7 @@ function App() {
             src="https://cdn.vox-cdn.com/uploads/chorus_image/image/55278743/gatsby.1497548146.gif"
             alt-text="hello"
           />
-          If you see this, David won
+          Congratulations to David
         </a>
       </header>
     </div>
